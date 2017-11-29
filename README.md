@@ -27,5 +27,5 @@ http://renderspud.blogspot.com/2012/04/basic-ray-tracer-stage-1.html <br>
 http://renderspud.blogspot.com/2012/04/basic-ray-tracer-stage-2.html <br>
 http://renderspud.blogspot.com/2012/04/basic-ray-tracer-stage-3.html <br>
 http://renderspud.blogspot.com/2014/03/basic-ray-tracer-stages-4-and-5.html
-http://renderspud.blogspot.com/2014/04/basic-ray-tracer-stage-6.html
+http://renderspud.blogspot.com/2014/04/basic-ray-tracer-stage-6.html <br>
 http://renderspud.blogspot.com/2014/04/not-so-basic-ray-tracer-stage-7.html
